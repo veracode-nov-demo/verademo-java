@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag - First change
+# VeraDemo - Blab-a-Gag
 
 ### :information_source: Notices
 
